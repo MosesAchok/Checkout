@@ -1,0 +1,96 @@
+<!DOCKTYPE html>
+<html>
+<body>
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+-<map>
+
+<string name="key_story_view">0</string>
+
+<boolean name="yo_want_airplanemode" value="true"/>
+
+<string name="key_chats_listanimation">11</string>
+
+<boolean name="disable_hiddenchat_access" value="false"/>
+
+<string name="key_chat_animation">3</string>
+
+<boolean name="enable_grp_separationV2" value="true"/>
+
+<boolean name="my_statusd" value="false"/>
+
+<boolean name="yo_want_nightmode" value="true"/>
+
+<boolean name="yo_multi_account_menu" value="true"/>
+
+<boolean name="naljaede_key_fab_caht" value="false"/>
+
+<boolean name="key_quick_view" value="true"/>
+
+<boolean name="my_name" value="false"/>
+
+<boolean name="newAttach_BottomDesign" value="false"/>
+
+<boolean name="Conv_call_btn" value="false"/>
+
+<boolean name="custom_wall" value="false"/>
+
+<boolean name="Audio_sensor" value="true"/>
+
+<boolean name="Hide_div" value="false"/>
+
+<string name="contact_online_tone_do">0</string>
+
+<boolean name="hide_translation_icon" value="false"/>
+
+<boolean name="yo_hideinfo" value="false"/>
+
+<boolean name="PicProf" value="false"/>
+
+<boolean name="Hide_contact_picker_section_recent_chats" value="false"/>
+
+<boolean name="admin_check" value="true"/>
+
+<boolean name="log_show_name_check" value="true"/>
+
+<string name="key_pager_animation">7</string>
+
+<boolean name="profile_toast" value="true"/>
+
+<boolean name="Audio_ears" value="false"/>
+
+<string name="inconvo_trans_option">in-y</string>
+
+<int name="square_photo_ratio_picker" value="100"/>
+
+<string name="time_online_toast_key">0</string>
+
+<boolean name="custom_wall_profilepic" value="false"/>
+
+<boolean name="Hide_contact_picker_section_other_contacts" value="false"/>
+
+<string name="HomeEntry">yousef</string>
+
+<boolean name="enable_ig_stories" value="false"/>
+
+<boolean name="stkr_wantsendconfirmation" value="true"/>
+
+<boolean name="Hide_contact_picker_section_frequent_chats" value="false"/>
+
+<boolean name="an_read_more" value="true"/>
+
+<boolean name="AttBt" value="false"/>
+
+<int name="main_text" value="17"/>
+
+<string name="ui_home_styleV3">stock</string>
+
+<boolean name="chats_show_contact_online_toast_check" value="false"/>
+
+<boolean name="statuses_toast" value="true"/>
+
+<int name="text_size_pick" value="16"/>
+
+</map>
+</body>
+</html>
